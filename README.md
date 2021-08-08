@@ -1,1 +1,1 @@
-codes based on Artificial Intelligence - Peter Norvig and Stuart Russell (2013)
+Codes based on Artificial Intelligence - Peter Norvig and Stuart Russell (2013).
